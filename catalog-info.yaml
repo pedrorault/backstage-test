@@ -4,6 +4,10 @@ metadata:
   name: backstage-test
   annotations:
     github.com/project-slug: pedrorault/backstage-test
+  links:
+    - url: https://dashboard.example.com
+      title: My Dashboard
+      icon: dashboard
 spec:
   type: other
   lifecycle: unknown
